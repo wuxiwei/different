@@ -15,7 +15,7 @@
     },
     "autoload": {
       "psr-4": {
-        "Tool\\Diff\\":"Diff"
+        "Tool\\":""
       }
     },
     "repositories": {
